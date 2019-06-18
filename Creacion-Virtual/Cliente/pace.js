@@ -32,7 +32,7 @@
     }
   };
 
-var count = new Date('07 18, 2019 00:00:00').getTime();
+var count = new Date('07 20, 2019 00:00:00').getTime();
 var x = setInterval(function(){
  var now = new Date().getTime();
  var d = count - now;
